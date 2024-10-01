@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+
+}
+
+h1 {
+    border-color: crimson;
+    border-width: 10px;
+    border-style: groove;
+}
+
+h2 {
+    text-align: center;
+    border-color: darkgreen;
+    border-width: 10px;
+    border-style: ridge;
+    
+}
+
